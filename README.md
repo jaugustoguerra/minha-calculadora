@@ -57,5 +57,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Feito com 💙 por [Seu Nome](https://github.com/jaugustoguerra)
+Feito com 💙 por [José Augusto Guerra](https://github.com/jaugustoguerra)
 ```
