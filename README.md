@@ -53,7 +53,7 @@ Você pode personalizá-la para integrar outras formas de validação, como regr
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENCE) para mais detalhes.
 
 ---
 
