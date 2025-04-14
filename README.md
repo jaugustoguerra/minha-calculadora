@@ -23,7 +23,7 @@ Uma calculadora simples e moderna desenvolvida com **React (Next.js)**, estiliza
 
 ```bash
 git clone https://github.com/jaugustoguerra/minha-calculadora.git
-cd calculadora-inteligente
+cd minha-calculadora
 ```
 
 2. Instale as dependências:
@@ -53,7 +53,7 @@ Você pode personalizá-la para integrar outras formas de validação, como regr
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENCE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jaugustoguerra/minha-calculadora/blob/master/LICENCE) para mais detalhes.
 
 ---
 
